@@ -1,0 +1,1 @@
+cmd_/home/utkarsh_pant/283-Assignment1/cmpe283-1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/utkarsh_pant/283-Assignment1/cmpe283-1.ko /home/utkarsh_pant/283-Assignment1/cmpe283-1.o /home/utkarsh_pant/283-Assignment1/cmpe283-1.mod.o;  true

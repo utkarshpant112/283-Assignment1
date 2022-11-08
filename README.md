@@ -9,7 +9,7 @@
    
    IV.  Install gcc and make.
    
-   V.   Make the code changes.
+   V.   Referred Intel SDM to find the capabilities of the remaining MSRs and made the code changes.
    
    VI.  Build the module using make command.
    
